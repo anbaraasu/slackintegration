@@ -1,4 +1,4 @@
-package com.doj.discovery;
+package com.av.discovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
